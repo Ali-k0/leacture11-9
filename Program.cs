@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Holle Ali");
-            Console.WriteLine("try try")
+            Console.WriteLine("try try");
         }
     }
 }
